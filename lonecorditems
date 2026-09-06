@@ -15,5 +15,10 @@
       "profileEffectSrc": null,
       "profileFrame": null
     }
+  },
+  "customBadges": {
+    "1511165995669262336": [
+      "lc_developer"
+    ]
   }
 }
