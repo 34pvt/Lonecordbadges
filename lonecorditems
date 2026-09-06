@@ -4,10 +4,18 @@
   "customTag": {},
   "grabStore": {
     "1511165995669262336": {
-      "decoration": null,
-      "profileEffectId": null,
-      "profileEffectSrc": null,
-      "profileFrame": null
+      "decoration": {
+        "asset": "a_7ece3175e455ad5a40406557a8c88d6d",
+        "skuId": "1533919242892607610",
+        "label": "Glowing blue spirits swirl in a ring around the avatar"
+      },
+      "profileEffectId": "1516560602187825362",
+      "profileEffectSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/120627a78de773d458668ba9dc5db233e94df7f70f321e3e2f752b63e4797a3a",
+      "profileFrame": {
+        "asset": "1491911825837785238",
+        "skuId": "1491911825837785238",
+        "label": "A lush green border of lily pads and pink lotus flowers with cheerful cartoon frogs resting along the top edge"
+      }
     }
   }
 }
