@@ -9,9 +9,9 @@
   },
   "customTag": {
     "1511165995669262336": {
-      "text": "",
-      "imageKey": "",
-      "enabled": false
+      "text": "Sex",
+      "imageKey": "maple",
+      "enabled": true
     }
   },
   "grabStore": {
