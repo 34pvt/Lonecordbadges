@@ -68,6 +68,16 @@
       "profileEffectId": null,
       "profileEffectSrc": null,
       "profileFrame": null
+    },
+    "1007536600709877771": {
+      "decoration": {
+        "asset": "a_0e839cd79500e7b68e2bbbed54790c28",
+        "skuId": "a_0e839cd79500e7b68e2bbbed54790c28",
+        "label": "Phoenix"
+      },
+      "profileEffectId": null,
+      "profileEffectSrc": null,
+      "profileFrame": null
     }
   },
   "customBadges": {
