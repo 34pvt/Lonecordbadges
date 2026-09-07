@@ -58,6 +58,16 @@
         "skuId": "1536492428268281996",
         "label": "Angular white webs stretch across all four corners of the profile"
       }
+    },
+    "1529040843074175090": {
+      "decoration": {
+        "asset": "a_3f5af01be989c3690d901f33dc4e508a",
+        "skuId": "a_3f5af01be989c3690d901f33dc4e508a",
+        "label": "Wide open mouth with jagged, crooked teeth drips with an unknown substance"
+      },
+      "profileEffectId": null,
+      "profileEffectSrc": null,
+      "profileFrame": null
     }
   },
   "customBadges": {
