@@ -117,7 +117,11 @@
       }
     },
     "1517321039472885859": {
-      "decoration": null,
+      "decoration": {
+        "asset": "a_29662829c08c8d55d1614a24fff424cc",
+        "skuId": "1341506443659968512",
+        "label": "Your avatar appears nervous, with visible blue sweat drops rolling down your forehead and a speech bubble containing a question mark stemming from your avatar's mouth."
+      },
       "profileEffectId": null,
       "profileEffectSrc": null,
       "profileFrame": null
