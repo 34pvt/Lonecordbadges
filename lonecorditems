@@ -114,7 +114,11 @@
       },
       "profileEffectId": "1293373563407175680",
       "profileEffectSrc": "https://cdn.discordapp.com/assets/content/4d4b146448f47711415a15db8988977a88860da9fb67d233e4e6a8972446337b",
-      "profileFrame": null
+      "profileFrame": {
+        "asset": "1526697977513509007",
+        "skuId": "1526697977513509007",
+        "label": "Three white bunnies peeking over the top holding strawberries surrounded by more strawberries and white flowers"
+      }
     }
   },
   "customBadges": {
