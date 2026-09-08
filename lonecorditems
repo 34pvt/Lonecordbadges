@@ -122,9 +122,13 @@
         "skuId": "1341506443659968512",
         "label": "Your avatar appears nervous, with visible blue sweat drops rolling down your forehead and a speech bubble containing a question mark stemming from your avatar's mouth."
       },
-      "profileEffectId": null,
-      "profileEffectSrc": null,
-      "profileFrame": null
+      "profileEffectId": "1495807809747423302",
+      "profileEffectSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/4492dd173c1627436bfc766b624b4aad3e07bccf23e1eb044a1114d4214f7d78",
+      "profileFrame": {
+        "asset": "1541462746032381982",
+        "skuId": "1541462746032381982",
+        "label": "Dark thorny branches form a spiked border around the profile"
+      }
     }
   },
   "customBadges": {
