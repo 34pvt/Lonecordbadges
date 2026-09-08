@@ -87,11 +87,7 @@
       }
     },
     "1529040843074175090": {
-      "decoration": {
-        "asset": "a_7cf09c7e78d6eb35ae354acc1d5cc676",
-        "skuId": "1271174732577767626",
-        "label": "An avatar wields two katanas surrounded by cherry blossoms, gesturing for a clashing of steel."
-      },
+      "decoration": null,
       "profileEffectId": null,
       "profileEffectSrc": null,
       "profileFrame": null
